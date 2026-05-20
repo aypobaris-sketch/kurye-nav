@@ -1,0 +1,13 @@
+minimumReleaseAgeExclude:
+  - '@expo/cli@55.0.31'
+  - '@expo/metro-config@55.0.22'
+  - '@expo/router-server@55.0.17'
+  - babel-preset-expo@55.0.22
+  - expo-file-system@55.0.21
+  - expo-font@55.0.8
+  - expo-modules-autolinking@55.0.23
+  - expo-router@55.0.15
+  - expo-server@55.0.10
+  - expo-symbols@55.0.9
+  - expo@55.0.25
+  - expo-updates@55.0.23
